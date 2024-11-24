@@ -11,7 +11,7 @@ function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col gap-8 md:flex-row md:justify-between">
           <div className="space-y-4">
-            <h2 className="text-2xl font-bold">Mapeando Dados Tecendo Redes</h2>
+            <h2 className="text-lg font-bold">Mapeando Dados Tecendo Redes</h2>
             <p className="text-muted-foreground">
               Trabalhando para combater a violência contra a mulher através da
               informação e apoio.
