@@ -1,8 +1,8 @@
-import About from "@/pages/about";
-import Contact from "@/pages/contact";
-import GetHelp from "@/pages/get-help";
+import ExplorarDados from "@/pages/explorar-dados";
 import Home from "@/pages/home";
 import { createBrowserRouter } from "react-router-dom";
+import Contato from "@/pages/home/contato";
+import Sobre from "@/pages/sobre";
 
 const router = createBrowserRouter([
   {
@@ -12,15 +12,15 @@ const router = createBrowserRouter([
   },
   {
     path: "/sobre",
-    element: <About />,
+    element: <Sobre />,
   },
   {
     path: "/fale-conosco",
-    element: <Contact />,
+    element: <Contato />,
   },
   {
-    path: "/buscar-ajuda",
-    element: <GetHelp />,
+    path: "/explorar-dados",
+    element: <ExplorarDados />,
   },
 ]);
 

@@ -42,18 +42,17 @@ function Header() {
               </SheetContent>
             </Sheet>
             <Link to="/" className="mr-6 flex items-center space-x-2">
-              {/* <span className="font-bold"></span> */}
               <img src={logo} className="w-32" />
             </Link>
           </div>
           <nav className="hidden items-center space-x-6 text-sm font-medium md:flex">
             <NavLink
-              to="/buscar-ajuda"
+              to="/explorar-dados"
               className={({ isActive }) =>
                 isActive ? "opacity-80" : "opacity-100 hover:opacity-80"
               }
             >
-              Locais de ajuda
+              Explorar dados
             </NavLink>
             <NavLink
               to="/fale-conosco"
@@ -99,8 +98,8 @@ function Header() {
 function MobileNav() {
   return (
     <div className="flex flex-col space-y-3">
-      <Link to="/" className="font-bold">
-        Safe Haven
+      <Link to="/" className="text-sm font-bold">
+        Mapeando Dados, Tecendo Redes
       </Link>
       <nav className="flex flex-col space-y-3">
         <NavLink
