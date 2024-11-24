@@ -1,8 +1,8 @@
 import ExplorarDados from "@/pages/explorar-dados";
 import Home from "@/pages/home";
 import { createBrowserRouter } from "react-router-dom";
-import Contato from "@/pages/home/contato";
 import Sobre from "@/pages/sobre";
+import Contato from "@/pages/fale-conosco";
 
 const router = createBrowserRouter([
   {
