@@ -18,10 +18,7 @@ export default function TiposViolencia() {
             </CardHeader>
             <CardContent>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Adipisci consequatur nam qui natus ipsum laudantium molestiae
-                ducimus vel itaque eaque omnis, repellat impedit ullam iure
-                pariatur illo consectetur cupiditate veniam.
+              Esse tipo de violência é entendido como qualquer conduta que ofenda a integridade ou saúde corporal da mulher através de uso de força física como espancamento, atirar objetos, sacudir ou apertar os braços, estrangulamento ou sufocamento, lesões com objetos cortantes, ferimentos por queimaduras ou armas de fogo, tortura.
               </p>
             </CardContent>
           </Card>
@@ -34,10 +31,7 @@ export default function TiposViolencia() {
             </CardHeader>
             <CardContent>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Perspiciatis cupiditate dolores pariatur ipsam et sint id
-                exercitationem qui dolore odio, facere maiores reprehenderit
-                deleniti expedita, placeat sapiente! Vel, adipisci neque!
+              É considerada qualquer conduta que cause dano emocional e diminuição da autoestima; prejudique e perturbe o pleno desenvolvimento da mulher; ou vise degradar ou controlar suas ações, comportamentos, crenças e decisões. A violência psicológica é praticada por meio de ameaças, constrangimento, manipulação, proibição de ver familiares e amigos, chantagem, insultos, etc.
               </p>
             </CardContent>
           </Card>
@@ -50,10 +44,7 @@ export default function TiposViolencia() {
             </CardHeader>
             <CardContent>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro
-                earum quod placeat corporis ea voluptatem. Maxime assumenda
-                officiis delectus accusantium dolore molestias iure, quia
-                cupiditate earum labore natus magnam repellendus!
+              É um tipo de violência psicológica que ataca a moral da mulher. Qualquer conduta que configure calúnia, difamação ou injúria é uma violência moral. Entre os tipos mais comuns, temos: acusar a mulher de traição, emitir juízos morais sobre a conduta dela, expor a vida íntima, rebaixar a mulher com xingamentos que incidem sobre sua índole, desvalorização da pessoa por sua forma de se vestir.
               </p>
             </CardContent>
           </Card>
@@ -66,10 +57,7 @@ export default function TiposViolencia() {
             </CardHeader>
             <CardContent>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt
-                distinctio dolore ea ratione. Molestiae repellendus ducimus ex
-                at! Harum tempore nemo laudantium veniam asperiores! Deserunt
-                repellendus labore quod nostrum necessitatibus.
+              A violência sexual trata-se de qualquer conduta que constranja a mulher a presenciar, manter ou participar de relação sexual não desejada mediante intimidação, ameaça, coação ou uso da força. Esse tipo de violência pode ser identificada em estupro, impedimento da mulher em usar métodos contraceptivos, forçar gravidez, impedir ou anular o exercício dos direitos sexuais da mulher.
               </p>
             </CardContent>
           </Card>
@@ -82,10 +70,7 @@ export default function TiposViolencia() {
             </CardHeader>
             <CardContent>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Excepturi molestias pariatur dolorum facilis odit dignissimos
-                eius aperiam obcaecati. Facere dolorum saepe, ipsa libero
-                tempora expedita consectetur itaque earum repudiandae alias.
+              Ela é entendida como qualquer conduta que configure retenção, subtração, destruição parcial ou total de seus objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos, incluindo os destinados a satisfazer suas necessidades.
               </p>
             </CardContent>
           </Card>
