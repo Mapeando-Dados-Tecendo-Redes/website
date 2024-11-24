@@ -35,7 +35,7 @@ function Footer() {
               </div>
 
               <div>
-                <NavLink to="/buscar-ajuda">Locais de Ajuda</NavLink>
+                <NavLink to="/explorar-dados">Explorar dados</NavLink>
               </div>
               <div>
                 <NavLink to="/fale-conosco">Fale Conosco</NavLink>
