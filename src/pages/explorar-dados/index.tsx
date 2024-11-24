@@ -1,10 +1,10 @@
 import Layout from "@/components/layouts";
 
-function GetHelp() {
+function ExplorarDados() {
   return (
     <>
       <Layout>
-        <main>
+        <main className="container mx-auto">
           <h1>Buscar Ajuda</h1>
         </main>
       </Layout>
@@ -12,4 +12,4 @@ function GetHelp() {
   );
 }
 
-export default GetHelp;
+export default ExplorarDados;

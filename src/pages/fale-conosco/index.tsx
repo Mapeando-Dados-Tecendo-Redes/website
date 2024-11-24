@@ -1,10 +1,10 @@
 import Layout from "@/components/layouts";
 
-function Contact() {
+function Contato() {
   return (
     <>
       <Layout>
-        <main>
+        <main className="container mx-auto">
           <h1 className="text-lg font-bold">Fale Conosco</h1>
         </main>
       </Layout>
@@ -12,4 +12,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default Contato;
