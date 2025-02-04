@@ -4,6 +4,7 @@ import Dados from "./dados";
 import { Separator } from "@/components/ui/separator";
 import Contato from "./contato";
 import Apresentacao from "./apresentacao";
+import { ImageGallery } from "./galery";
 
 function Home() {
   return (
@@ -11,6 +12,8 @@ function Home() {
       <Layout>
         <main>
           <Apresentacao />
+          <Separator />
+          <ImageGallery />
           <Separator />
           <Dados />
           <Separator />

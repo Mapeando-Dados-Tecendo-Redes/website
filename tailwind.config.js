@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['"Inter"'],
+        sans: ["Poppins"],
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -56,6 +56,5 @@ export default {
       },
     },
   },
-  plugins: ["tailwindcss-animate", "prettier-plugin-tailwindcss"]
-	,
+  plugins: ["tailwindcss-animate", "prettier-plugin-tailwindcss"],
 };
