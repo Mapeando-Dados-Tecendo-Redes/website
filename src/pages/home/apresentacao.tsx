@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { Link } from "react-router-dom"
 import { BlurSection } from "@/components/ui/blur-section"
+import img from "../../assets/mulheres-politica.png"
 
 export default function Apresentacao() {
   return (
@@ -10,7 +11,7 @@ export default function Apresentacao() {
       <div
         className="relative w-full py-32 sm:py-48 lg:py-56 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/src/assets/mulheres-politica.png')`,
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(${img})`,
         }}
       >
         <div className="mx-auto max-w-2xl text-center relative z-10">
