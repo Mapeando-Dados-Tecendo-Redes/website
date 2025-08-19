@@ -72,12 +72,12 @@ export default function ExplorarDados() {
 
         <div className="mb-8">
           <iframe
-            src="https://qgiscloud.com/joaojacintho/efas/?l=Escola%20Fam%C3%ADlia%20Agr%C3%ADcola%2CMinas%20Gerais&bl=Aerial&t=efas&e=-5612597%2C-3321934%2C-4412240%2C-1083100"
-            width="100%"
-            height="600"
-            className="rounded border"
+            src="https://www.google.com/maps/d/embed?mid=1lZk1S-Q7I-cvU57YHjkzZyObmP1ch60&ehbc=2E312F"
+            className="w-full h-[480px] block mx-auto rounded-lg"
           ></iframe>
         </div>
+
+
 
         <div className="relative mb-6">
           <Search className="absolute left-2 top-1/2 h-4 w-4 -translate-y-1/2 transform text-gray-400" />
